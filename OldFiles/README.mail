@@ -1,0 +1,8 @@
+The recommended mail package for most Athena users is "pine".  Other
+packages such as UCB mail or MH mail are also available.  To learn more
+about them, use CATS on-line help system (i.e. type "help") then look
+under:
+
+	UNIX (includes Athena)
+	Communicating with other users
+	Electronic mail
